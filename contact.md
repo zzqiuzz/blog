@@ -3,10 +3,7 @@ layout: page
 title: Contact
 published: true
 ---
----
-layout: page
-title: Contact
----
+
 Contact me using the form.
 
 <!-- Begin MailChimp Signup Form -->
