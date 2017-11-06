@@ -1,33 +1,9 @@
 ---
-'0': l
-'1': a
-'2': 'y'
-'3': o
-'4': u
-'5': t
-'6': ':'
-'7': p
-'8': a
-'9': g
-'10': e
-'11': ' '
-'12': t
-'13': i
-'14': t
-'15': l
-'16': e
-'17': ':'
-'18': C
-'19': o
-'20': 'n'
-'21': t
-'22': a
-'23': c
-'24': t
-published: true
+layout:page
+title:Contact
 ---
 
-Contact me using the form.
+Contact me using the form
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
