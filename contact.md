@@ -5,7 +5,7 @@ published: true
 ---
 ---
 layout: page
-title: About Emerald
+title: Contact
 ---
 Contact me using the form.
 
