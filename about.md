@@ -8,6 +8,6 @@ I am currently a graduate student in NUIST,focusing on:
 - Computer Vision 
 - Deep Compression.
 
-*My blog website is:   [zzqiuzz's Blog](https://zzqiuzz.github.io/blog/)
+*My blog website is:[zzqiuzz's Blog](https://zzqiuzz.github.io/blog/)
 
 Email: zzqiuzz@gmail.com
