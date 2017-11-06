@@ -1,8 +1,12 @@
 ---
 layout: page
 title: Contact
+published: true
 ---
-
+---
+layout: page
+title: About Emerald
+---
 Contact me using the form.
 
 <!-- Begin MailChimp Signup Form -->
