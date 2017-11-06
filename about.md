@@ -4,7 +4,7 @@ title: About me
 published: true
 ---
 I am currently a graduate student in NUIST,focusing on:
-- Maching Learning
+- Machine Learning
 - Computer Vision 
 - Deep Compression.
 
