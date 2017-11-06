@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Emerald
+title: About me
 published: true
 ---
 Enough is enough!zzqiuzz.
